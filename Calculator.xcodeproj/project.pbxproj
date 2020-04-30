@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22995600245B54CA007033F5 /* ContactModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229955FF245B54CA007033F5 /* ContactModel.swift */; };
 		50783157245B47B900B805CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50783156245B47B900B805CB /* AppDelegate.swift */; };
 		50783159245B47B900B805CB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50783158245B47B900B805CB /* SceneDelegate.swift */; };
 		5078315B245B47B900B805CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5078315A245B47B900B805CB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		229955FF245B54CA007033F5 /* ContactModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactModel.swift; sourceTree = "<group>"; };
 		50783153245B47B900B805CB /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50783156245B47B900B805CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50783158245B47B900B805CB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				50783156245B47B900B805CB /* AppDelegate.swift */,
 				50783158245B47B900B805CB /* SceneDelegate.swift */,
 				5078315A245B47B900B805CB /* ViewController.swift */,
+				229955FF245B54CA007033F5 /* ContactModel.swift */,
 				5078315C245B47B900B805CB /* Main.storyboard */,
 				5078315F245B47BC00B805CB /* Assets.xcassets */,
 				50783161245B47BC00B805CB /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				5078315B245B47B900B805CB /* ViewController.swift in Sources */,
 				50783157245B47B900B805CB /* AppDelegate.swift in Sources */,
+				22995600245B54CA007033F5 /* ContactModel.swift in Sources */,
 				50783159245B47B900B805CB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
