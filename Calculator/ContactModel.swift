@@ -10,4 +10,5 @@ import Foundation
 
 struct ContactModel {
     var name: String?
+    var id: Int?
 }
